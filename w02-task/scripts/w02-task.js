@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Savanna Whittaker';
 let currentYear = new Date().getFullYear();
-const profilePicture = 'images/profilePictu.jpg';
+const profilePicture = 'images/profilePictu.png';
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
